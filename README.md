@@ -1,6 +1,6 @@
 ## psteadman.github.io
 
-Personal website - [patricksteadman.ca] or [http://psteadman.github.io] 
+Personal website - [http://patricksteadman.ca] or [http://psteadman.github.io] 
 
 ### Modified from open source theme dbyll:
 * [Download dbyll](https://github.com/dbtek/dbyll/archive/master.zip)
