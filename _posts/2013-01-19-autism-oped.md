@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Autism research, traversing the full spectrum to help children
-categories: [medical research]
-tags: [opinion]
+categories: [medicine]
+tags: [opinion, medical research]
 description: 
 comments: true
 ---
