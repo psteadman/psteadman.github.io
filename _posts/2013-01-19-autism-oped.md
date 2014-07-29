@@ -4,6 +4,7 @@ title: Autism research, traversing the full spectrum to help children
 categories: [medical research]
 tags: [opinion]
 description: 
+comments: true
 ---
 
 With a prevalence of one in 88 children, autism has moved to the forefront of discussions amongst Canadian parents. To propel this discussion from the kitchen table to the greater community, the Toronto Star produced a useful series entitled the <a href="http://www.thestar.com/news/world/autismproject" title="Autism Project" target="_blank">Autism Project</a>. Yet, little has been discussed on how research is describing brain dysfunction in autism and developing treatments to correct this.

@@ -12,11 +12,11 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Patrick Steadman
+      title: PS
 
 description: My website
 author:
-  name: psteadman
+  name: Patrick Steadman
   email: patrick.steadman@mail.utoronto.ca
   github: psteadman
   twitter: pesteadman

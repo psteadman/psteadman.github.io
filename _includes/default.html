@@ -26,11 +26,6 @@
 				<i class="fa fa-twitter"></i>
 			</a>
 			{% endif %}
-<!-- 			{% if site.author.email %}
-			<a type="button" class="navbar-toggle nav-link" href="mailto:{{ site.author.email }}">
-				<i class="fa fa-envelope"></i>
-			</a>
-			{% endif %} -->
 			<a class="navbar-brand" href="{{ site.BASE_PATH }}/">
 				<img src="http://www.gravatar.com/avatar/{{site.author.email_md5}}?s=35" class="img-circle" />
 				{{ site.title }}
@@ -67,6 +62,8 @@
 
 	<div class="col-sm-9 col-sm-offset-3">
 		{{ content }}
+
+		{% include comments.html %}
 
 		<footer>
 			<hr/>

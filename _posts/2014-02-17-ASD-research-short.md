@@ -4,6 +4,7 @@ title: The key to early diagnosis in Autism&#58; three research areas
 categories: [medical research]
 tags: [opinion]
 description: A short thought on promising areas of research in ASD
+comments: true
 ---
 
 _“I’m hoping they will realize they get better bang for their buck, the earlier intervention is given.”_ - <a title="Toronto Star February 2013" href="http://www.thestar.com/news/canada/2013/02/08/ontarios_auditor_general_to_review_autism_services.html">said Simone Papernick of Whitby</a>.
