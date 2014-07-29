@@ -3,7 +3,7 @@
 Personal website - [http://patricksteadman.ca] or [http://psteadman.github.io] 
 
 ### Modified from open source theme dbyll:
-* [Download dbyll](https://github.com/dbtek/dbyll/archive/master.zip)
+* [dbyll](https://github.com/dbtek/dbyll) - [download](https://github.com/dbtek/dbyll/archive/master.zip)
 
 ### Features
 - Responsive layout.
