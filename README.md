@@ -1,11 +1,9 @@
-dbyll
-=====
+## psteadman.github.io
 
-Open source stylish, minimalistic theme for jekyll.  
-Demo: http://dbtek.github.io/dbyll/
+Personal website - patricksteadman.ca
 
-## New
-Dbyll for Ghost is now available. Get it [here](https://github.com/dbtek/dbyll-ghost) now.
+### Modified from open source theme dbyll:
+* [Download dbyll](https://github.com/dbtek/dbyll/archive/master.zip)
 
 ### Features
 - Responsive layout.
@@ -17,18 +15,5 @@ Dbyll for Ghost is now available. Get it [here](https://github.com/dbtek/dbyll-g
 - Syntax highlighting with pygments.
 - Disqus comments.
 
-
-### Download
-* [Download dbyll](https://github.com/dbtek/dbyll/archive/master.zip)
-
-### Screenshots
-
-![dbyll-screenshot](	assets/media/dbyll-ss.png)
-
 ### License
 - [MIT](http://opensource.org/licenses/MIT)
-
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/dbtek/dbyll/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
