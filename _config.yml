@@ -1,33 +1,33 @@
-# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+# Dependencies
+markdown:         kramdown
+pygments:         true
 
-paginate: 10 # pagination based on number of posts
-paginate_path: "page:num"
-exclude: ["README.md"] # files to exclude
-pygments: true
-markdown: kramdown
+# Permalinks
+permalink:        pretty
 
+# Setup
+title:            'Patrick Steadman'
+tagline:          'MD/PhD student at The University of Toronto'
+description:      'A student with too many interests'
+url:              http://patricksteadman.ca
+baseurl:          '/'
+paginate:         5
 
-defaults:
-  -
-    scope:
-      path: "" # empty string for all files
-    values:
-      title: Patrick Steadman
-
-description: My website
 author:
-  name: psteadman
+  name: 'Patrick Steadman'
   email: patrick.steadman@mail.utoronto.ca
   github: psteadman
   twitter: pesteadman
   linkedin: pesteadman
   goodreads: pesteadman
-  bio: MD/PhD student at The University of Toronto
   email_md5: 4a424eaac867c7c43ac960ad6650bfd1
-  #  pinterest: asd123
+  disqus_shortname: patricksteadman
+  google_analytics_id: UA-27104497-1
+  google_analytics_url: patricksteadman.ca
+  bio: MD/PhD student at The University of Toronto
 
-rss_path: feed.xml
-categories_path: categories.html
-tags_path: tags.html
+# Custom vars
+version:          1.0.0
 
-BASE_PATH:
+github:
+  repo:           https://github.com/poole/lanyon
