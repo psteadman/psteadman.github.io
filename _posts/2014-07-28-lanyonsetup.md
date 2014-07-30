@@ -1,7 +1,7 @@
 ---
 layout: post
 title: From Poole to Lanyon to my custom setup
-categories: [coding]
+categories: []
 tags: []
 description: Starting with Jekyll and github pages, I utilized the poole and lanyon themes with customization to make this website.
 comments: true
@@ -31,4 +31,9 @@ Added social links with _config.yml settings I set-up and font-awesome icons
 * I cant seem to get the 404 page to work
 * Would like to add support for tags and categories
 * Must complete the about page with my own info
+
+### Final Push
+
+* Add SEO streamlining from [here](http://jethrokuan.github.io/2013/12/20/SEO-with-Jekyll.html)
+* Add CNAME from [here](https://help.github.com/articles/tips-for-configuring-a-cname-record-with-your-dns-provider)
 
