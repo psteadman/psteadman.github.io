@@ -2,7 +2,7 @@
 layout: post
 title: The MD/PhD program at UofT
 categories: []
-tags: [MDPhD, education]
+tags: [mdphd, education]
 description: In 2013 I started the MD/PhD program at the University of Toronto.
 ---
 
