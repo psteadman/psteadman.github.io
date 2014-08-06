@@ -1,12 +1,17 @@
 ---
 layout: page
-title: About
+title: ideas for posts
 categories: []
 tags: [data science, code]
 description: 
-comments: true
+comments: 
 ---
+## New 2014 organization of ideas
+* I should write about the summer research projects I did as an undergraduate
+* Write about PRAISE volunteering
+* Write about PRAISE research projects and publications
 
+## Original About text
 
 <p class="message">
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!

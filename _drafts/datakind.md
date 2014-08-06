@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From Poole to Lanyon to my custom setup
+title: Datakind - doing good data science
 categories: []
 tags: [data science, code]
 description: 
