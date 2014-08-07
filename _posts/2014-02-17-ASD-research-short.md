@@ -2,7 +2,7 @@
 layout: post
 title: The key to early diagnosis in Autism&#58; three research areas
 categories: []
-tags: [opinion, medical research]
+tags: [opinion, medicine, science]
 description:
 comments: true
 ---
