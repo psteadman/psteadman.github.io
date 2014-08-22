@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Datakind - doing good data science
+title: Datakind&#58; doing good data science
 categories: []
-tags: [data science, code]
+tags: [science, code]
 description: 
 comments: true
 ---

@@ -26,6 +26,8 @@ comments: true
 * Added my gravatar to the sidebar
 * Added social links with _config.yml settings I set-up and font-awesome icons
 
+My repostitory can be found at [https://github.com/psteadman/psteadman.github.io]()
+
 ### Things I'd like to explore
 * Medium and their website - [https://medium.com]()
 * [Pandoc](http://johnmacfarlane.net/pandoc/) with [github](https://github.com/jgm/pandoc)

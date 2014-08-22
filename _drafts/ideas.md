@@ -8,8 +8,8 @@ comments:
 ---
 ## New 2014 organization of ideas
 * I should write about the summer research projects I did as an undergraduate
-* Write about PRAISE volunteering
-* Write about PRAISE research projects and publications
+* Write about PRAISE volunteering 
+* Write about PRAISE research projects and publications - "conducting research on the side"
 
 ## Original About text
 
