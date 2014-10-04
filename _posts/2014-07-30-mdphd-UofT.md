@@ -13,7 +13,7 @@ Most students complete MD year 1 and then transition to the PhD phase. An altern
 
 The current curriculum, as noted above, separates the two degrees. However, since we really should be learning to combine our clinical and research skills, some degree of integration should exist. The program is working on improving integration, as discussed in [a 2012 report](http://mdphd.utoronto.ca/wp-content/uploads/2012/06/ReportforWeb.pdf).
 
-If you have any questions for me on my experiences with the program: [@pesteadman](https://twitter.com/{{ site.author.twitter }})
+If you have any questions on my experiences with the program, easiest means to contact me is [@pesteadman](https://twitter.com/{{ site.author.twitter }})
 
 ### [University of Toronto](http://www.utoronto.ca)
 
@@ -22,7 +22,7 @@ Doctor of Medicine \\
 Faculty of Medicine
 
 __2014-Present__ \\
-Doctorate of Philosophy \\
+Doctor of Philosophy \\
 Institute of Medical Science \\
 Supervisor: Dr. Paul Frankland
 
