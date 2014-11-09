@@ -10,3 +10,6 @@ Before starting on the 8 year journey to become a clinician scientist I was a ma
 I am interested in many aspects of medicine, neuroscience, computer science, open science (and open government) and writing. I will use this website to write about these and share what I learn throughout my studies.
 
 If you like my website, you can follow me on twitter [@pesteadman](https://twitter.com/{{ site.author.twitter }}). 
+
+[Google scholar]({{ site.author.google_scholar }})  
+[ORCID]({{ site.author.orcid }})
