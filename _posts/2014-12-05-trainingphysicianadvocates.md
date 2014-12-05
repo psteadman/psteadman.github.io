@@ -7,7 +7,7 @@ description:
 comments: true
 ---
 
-A patient is unable to afford medications necessary to manage their chronic illness. As a physician, you may not even inquire as to whether the patient can afford their prescription medication and thus do nothing *OR* you may advocate for your patient and for a better healthcare system by ensuring they get their medications and letting healthcare administrators know about this gap in ability to provide care. 
+A patient is unable to afford medications necessary to manage their chronic illness. As a physician, you may not even inquire as to whether the patient can afford their prescription medication and thus do nothing *OR* you may advocate for your patient and for a better healthcare system by ensuring they get their medications and letting healthcare administrators know about this gap in ability to provide care. Which type of physician will you be?
 
 During a Canadian medical student's training, we become competent in the Can MEDs roles, all 7 of them. One of those roles is that of [the Health Advocate](http://www.deptmedicine.utoronto.ca/CanMEDS/Health_Advocate.htm). How does medical education and a future physician's general experience in healthcare teach them to be an advocate and prepare them for contributing to making healthcare better meet patient needs? How do we ensure all "physicians [know their] responsibility [to] use their expertise and influence to advance the health and well-being of individual patients, communities, and populations."([source](http://www.royalcollege.ca/portal/page/portal/rc/canmeds/framework))
 
