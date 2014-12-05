@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On physicians becoming health advocates
+title: On medical students becoming health advocates
 categories: []
 tags: [medicine]
 description: 
