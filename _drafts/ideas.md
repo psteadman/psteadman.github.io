@@ -17,6 +17,10 @@ comments:
 * Storing and sharing of data in science/neuroimaging
 * copyright, trademark and patents -> uses, differences, definitions
 
+* Who are my mentors? Whats their value/goal/purpose?
+* The role of medical science in legal deicisions?
+* Is there really a knowledge gap for KT?
+
 ## Considerations:
 What you want to say, what your perspective is
 The people who will be reading the post and what they will understand - do you need to explain any particular phrases?
