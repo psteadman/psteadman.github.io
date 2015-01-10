@@ -27,7 +27,7 @@ Evidence therefore suggests physicians can be position well to be advocates for 
 
 A photo of a medical student advocacy campaign to increase the number of Ontarians registered as organ donors; truly good advocacy! 
 
-![Medical student campaign to increase the number of Ontarians registered as organ donors](/assets/2015-01-09_GiftOfLifeUofT_tweet.png)
+![Medical student campaign to increase the number of Ontarians registered as organ donors](/assets/2015-01-09_GiftOfLifeUofT_tweet.png?raw=true)
 Source: [https://twitter.com/UofTGoL/status/426465189962084352]()
 
 ## REFERENCES:
