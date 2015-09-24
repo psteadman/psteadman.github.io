@@ -11,7 +11,8 @@ comments:
 * There is no discovery in policy, whereas there is in science?
 * Market forces dictate pay for a profession/job and this is not driven by contribution to society or even related to it but rather by demand/interest in the job/thing by society 
 * Is it better to dabble in selected but different areas (of med) OR focus on a very specific area or thing
-
+* What do we know about the costs of doing science? Running a lab in field X of size Y.
+  * What is the variance in lab costs/overhead and is there a relationship between lab funding/money and the impact of the lab's work
 
 
 ## New 2014 organization of ideas
