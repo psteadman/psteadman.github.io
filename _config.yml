@@ -4,6 +4,7 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            'Patrick Steadman'
@@ -29,7 +30,7 @@ author:
   bio: MD/PhD student at The University of Toronto
 
 # Custom vars
-version:          1.0.0
+version:          2.0.0
 
 github:
   repo:           https://github.com/poole/lanyon
