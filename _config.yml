@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge # changed from `pygments` as github says so
 
 # Permalinks
 permalink:        pretty
