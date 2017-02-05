@@ -11,7 +11,7 @@ comments: false
 
 Most students complete MD year 1 and then transition to the PhD phase. An alternative avenue is to stay for MD year 2 and transition to the PhD phase afterwards. Following the successful defense of the PhD, the final 3 years of the MD degree are completed. Total time is (hopefully) 8 years, though this varies. The choice of PhD department and supervisor is done during first year of medicine with significant freedom to choose from the majority of departments at the university. 
 
-The current curriculum, as noted above, separates the two degrees. However, since we really should be learning to combine our clinical and research skills, some degree of integration should exist. The program is working on improving integration, as discussed in [a 2012 report](http://mdphd.utoronto.ca/wp-content/uploads/2012/06/ReportforWeb.pdf).
+The current curriculum, as noted above, separates the two degrees. However, since we really should be learning to combine our clinical and research skills, some degree of integration should exist. The program is working on improving integration, as discussed in a 2012 report (Unfortunately no longer on-line).
 
 If you have any questions on my experiences with the program, easiest means to contact me is [@pesteadman](https://twitter.com/{{ site.author.twitter }})
 
@@ -33,5 +33,4 @@ Supervisor: Dr. Paul Frankland
 * [MD/PhD program](http://mdphd.utoronto.ca/)
 * [Institute of Medical Science](http://www.ims.utoronto.ca/)
 * [Paul Frankland's lab](http://www.franklandlab.com)
-* [My MD/PhD student profile](http://mdphd.utoronto.ca/people/steadman-patrick)
 
