@@ -10,7 +10,7 @@ title:            'Patrick Steadman'
 tagline:          'MD-PhD student at The University of Toronto'
 description:      'A student with too many interests'
 url:              http://patricksteadman.ca
-baseurl:          '/'
+baseurl:          ''
 paginate:         5
 
 author:
@@ -26,10 +26,4 @@ author:
   disqus_shortname: patricksteadman
   google_analytics_id: UA-27104497-1
   google_analytics_url: patricksteadman.ca
-  bio: MD/PhD student at The University of Toronto
-
-# Custom vars
-version:          2.0.0
-
-github:
-  repo:           https://github.com/poole/lanyon
+  bio: MD-PhD student at The University of Toronto
