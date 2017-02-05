@@ -12,6 +12,7 @@ description:      'A student with too many interests'
 url:              http://patricksteadman.ca
 baseurl:          ''
 paginate:         5
+paginate_path:    '/blog/page:num/'
 
 author:
   name: 'Patrick Steadman'
@@ -23,6 +24,7 @@ author:
   orcid: http://orcid.org/0000-0002-5814-4977
   google_scholar: http://scholar.google.ca/citations?user=Xrn76pEAAAAJ
   email_md5: 4a424eaac867c7c43ac960ad6650bfd1
+  emailalt_md5: 3a91811708b61787ecd9018c9becc99b
   disqus_shortname: patricksteadman
   google_analytics_id: UA-27104497-1
   google_analytics_url: patricksteadman.ca

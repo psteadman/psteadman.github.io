@@ -3,49 +3,12 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    <div>
-      {% if post.fullview %}
-      {{ post.content }}
-      {% else %}
-      {% if post.shortinfo %}
-      {{ post.shortinfo }}
-      {% elsif post.description %}
-      {{ post.description }}
-      {% else %}
-      {{ post.excerpt }}
-      {% endif %}
-      {% endif %}
-    </div>
-
-  </div>
-  {% endfor %}
+<div class="img">
+    <img src="http://www.gravatar.com/avatar/{{site.author.emailalt_md5}}?s=240" />
 </div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<p><a href="http://www.md.utoronto.ca/current-student-biographies">MD-PhD student</a> at <a href="http://www.utoronto.ca/">The University of Toronto</a>.</p>
 
+<p>I work to integrate neuroscience, medicine, computer science and public policy. If you like, you can follow me on twitter <a href="https://twitter.com/{{ site.author.twitter }}">@pesteadman</a>.</p>
+
+<p>Periodically, I write stuff: <a href="{{site.baseurl}}/blog">blog</a></p>
