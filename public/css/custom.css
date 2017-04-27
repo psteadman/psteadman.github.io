@@ -17,3 +17,7 @@
 	width: 160px;
 	margin: 0 auto;
 }
+
+#contact-list a:hover {
+    text-decoration: none;
+}
