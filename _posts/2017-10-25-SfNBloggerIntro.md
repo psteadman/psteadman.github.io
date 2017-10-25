@@ -19,10 +19,16 @@ My background is in learning and memory, neuroimaging and computer analysis. I a
 
 See you in November!
 
+
 Patrick E. Steadman, MSc
+
 _PhD Candidate, Frankland Lab, The Hospital for Sick Children_
+
 _MD-PhD Student, University of Toronto_
+
 Neuronline: @patrick.steadman
+
 Twitter: [@pesteadman](http://twitter.com/pesteadman)
+
 Blog: [](http://patricksteadman.ca/blog)
 
