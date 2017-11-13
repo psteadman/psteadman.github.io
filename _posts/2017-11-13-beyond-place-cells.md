@@ -10,7 +10,7 @@ comments: true
 
 Thanks to O'Keefe and Dostrovsky 45 years ago place cells were discovered in the hippocampus. Since then people have been studying the neurophysiology of neurons to see how place, among other features of the world around us are coded. In this #SfN17 session presenters were urged to move 'Beyond place cells' and thankfully many have been doing just that for a number of years. However, many questions remain about mechanistically how the hippocampus and associated structures process for coding environmental features. 
 
-![Coding cells, 25%](http://www.frontline.in/multimedia/dynamic/02171/fl14_nobel_medicin_2171449g.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![Coding cells, 25%](http://www.frontline.in/multimedia/dynamic/02171/fl14_nobel_medicin_2171449g.jpg)
 
 Source: http://www.frontline.in/multimedia/dynamic/02171/fl14_nobel_medicin_2171449g.jpg
 
