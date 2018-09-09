@@ -32,5 +32,5 @@ Supervisor: Dr. Paul Frankland
 * [MD program](http://www.md.utoronto.ca/)
 * [MD/PhD program](http://mdphd.utoronto.ca/)
 * [Institute of Medical Science](http://www.ims.utoronto.ca/)
-* [Paul Frankland's lab](http://www.franklandlab.com)
+* [Paul Frankland's lab](https://www.jflab.ca)
 
