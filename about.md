@@ -3,8 +3,8 @@ layout: page
 title: Tiny CV
 ---
 
-* [MD-PhD student](http://www.md.utoronto.ca/current-student-biographies) at The [University of Toronto](http://www.utoronto.ca/) since 2013
-* MD at The [University of Toronto](https://md.utoronto.ca/md-program) (anticipated Class of 2021)
+* [MD-PhD clinician scientist program](http://www.md.utoronto.ca/current-student-biographies) at The [University of Toronto](http://www.utoronto.ca/) 2013-2021 with program directors Drs Norm Rosenblum and Nicola Jones
+* MD from The [University of Toronto](https://md.utoronto.ca/md-program) in 2021
 * PhD in Neuroscience completed with [Dr. Paul Frankland](https://www.jflab.ca/) at [The Hospital for Sick Children](http://www.sickkids.ca/) in 2020
 * Junior Fellow at [Massey College](http://www.masseycollege.ca) from 2012-2017
 * MSc in Medical Biophysics completed with [Dr. Jason Lerch](http://medbio.utoronto.ca/faculty/lerch.html) at the Mouse Imaging Centre in 2013 - elaborated on [here]({% post_url 2014-07-29-msc %}). 
