@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Short notes
+title: Tiny essays
 ---
 
 {% for post in site.posts %}
