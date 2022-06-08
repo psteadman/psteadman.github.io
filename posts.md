@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Posts
+title: Short notes
 ---
 
 {% for post in site.posts %}
