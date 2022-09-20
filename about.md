@@ -9,7 +9,7 @@ title: Tiny CV
 * PhD in Neuroscience with [Dr. Paul Frankland](https://www.jflab.ca/) at [The Hospital for Sick Children](http://www.sickkids.ca/) in 2020
 * Junior Fellow at [Massey College](http://www.masseycollege.ca) from 2012-2017
 * MSc in Medical Biophysics completed with [Dr. Jason Lerch](http://medbio.utoronto.ca/faculty/lerch.html) at the Mouse Imaging Centre in 2013 - elaborated on [here]({% post_url 2014-07-29-msc %}). 
-* BSc in Medical and Health Physics from [McMaster Universithttps://pgme.utoronto.ca/y](https://www.mcmaster.ca/) in 2011 - I outlined the program [here]({% post_url 2014-07-28-bsc %}).
+* BSc in Medical and Health Physics from [McMaster University](https://www.mcmaster.ca/) in 2011 - I outlined the program [here]({% post_url 2014-07-28-bsc %}).
 * Links to my:
     * [Google scholar]({{ site.author.google_scholar }})
     * [ORCID]({{ site.author.orcid }})
