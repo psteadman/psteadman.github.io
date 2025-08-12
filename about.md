@@ -3,6 +3,7 @@ layout: page
 title: Tiny CV
 ---
 
+* Postdoctoral fellow with [Stanford University](https://med.stanford.edu/) with [Dr. Michelle Monje](https://med.stanford.edu/monje-lab.html) from 2025 to present
 * Resident physician with [PGME](https://pgme.utoronto.ca/) from 2021 to present
 * MD-PhD [Clinician Scientist Training Program](https://md.utoronto.ca/mdphd) with program directors Drs Norm Rosenblum and Nicola Jones at The University of Toronto in 2021 
 * MD from The [University of Toronto](https://md.utoronto.ca/md-program) in 2021
